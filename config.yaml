@@ -18,4 +18,4 @@ map:
   - data:rw
   - ssl
 
-image: RebbePod/tgcf:1.1.7
+image: RebbePod/tgcf-ha
