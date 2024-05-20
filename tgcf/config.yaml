@@ -2,7 +2,7 @@ name: "TGCF Telegram Forward"
 description: "TGCF 1.1.7"
 version: "1.1.7"
 slug: "tgcf"
-url: https://github.com/RebbePod/tgcf-ha/
+url: https://github.com/aahnik/tgcf/
 init: false
 hassio_api: true
 hassio_role: homeassistant
