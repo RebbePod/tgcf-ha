@@ -1,0 +1,21 @@
+name: "TGCF Telegram Forward"
+description: "TGCF 1.1.7"
+version: "1.1.7"
+slug: "tgcf"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+webui: http://[HOST]:[PORT:8501]
+ports:
+  8501/tcp: 8501
+
+map:
+  - config:rw
+  - data:rw
+  - ssl
+
+image: RebbePod/tgcf:1.1.7
