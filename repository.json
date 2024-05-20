@@ -1,6 +1,5 @@
 {
   "name": "TGCF Telegram Forward",
-  "udev": true,
   "url": "https://github.com/RebbePod/tgcf-ha/",
   "maintainer": "RebbePod"
 }
